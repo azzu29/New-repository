@@ -1,1 +1,1 @@
-# New-repository
+# Color Detection Project
